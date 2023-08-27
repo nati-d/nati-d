@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nati-d
 -Full name is Nathnael Desalegn
-- 👀 I’m interested in Front end web developing and start react
-- 🌱 I’m currently learning react
+- 👀 I’m interested in mobile app and web development
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on same us with me or better than with me to help me
 - 📫 How to reach me use telegram @Serial442, instagram @na_ti_ye
 
