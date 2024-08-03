@@ -1,5 +1,8 @@
   
-[![MasterHead](https://i.pinimg.com/564x/da/c4/6f/dac46fb1ad53891d981b110b1bceef2a.jpg)](https://github.com/nati-d/nati-d)
+<h3 align="center">
+  <img src="https://i.pinimg.com/564x/da/c4/6f/dac46fb1ad53891d981b110b1bceef2a.jpg" alt="MasterHead" style="width: 100%;"/>
+</h3>
+
 [![Nathnael's GitHub stats](https://github-readme-stats.vercel.app/api?username=nati-d)](https://github.com/nati-d/nati-d)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nati-d)](https://git.io/streak-stats)
 <h3 align="left">Languages and Tools:</h3>
