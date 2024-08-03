@@ -1,3 +1,4 @@
+[![MasterHead]([your image link](https://i.pinimg.com/564x/69/69/7f/69697fe98099bf566f8b8777efb867e9.jpg))]([your GitHub link](https://github.com/nati-d/nati-d))
 [![Nathnael's GitHub stats](https://github-readme-stats.vercel.app/api?username=nati-d)](https://github.com/nati-d/nati-d)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nati-d)](https://git.io/streak-stats)
 <h3 align="left">Languages and Tools:</h3>
@@ -35,5 +36,5 @@
 </p>
 
 
-[![MasterHead]([your image link](https://i.pinimg.com/564x/69/69/7f/69697fe98099bf566f8b8777efb867e9.jpg))]([your GitHub link](https://github.com/nati-d/nati-d))
+
 
