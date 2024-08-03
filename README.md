@@ -1,4 +1,4 @@
-  <img align="right" alt="Coding" width="400" src="add your link here">
+  
 [![MasterHead](https://i.pinimg.com/564x/69/69/7f/69697fe98099bf566f8b8777efb867e9.jpg)](https://github.com/nati-d/nati-d)
 [![Nathnael's GitHub stats](https://github-readme-stats.vercel.app/api?username=nati-d)](https://github.com/nati-d/nati-d)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nati-d)](https://git.io/streak-stats)
