@@ -1,6 +1,6 @@
   
 <h3 align="center">
-  <img src="https://i.pinimg.com/564x/da/c4/6f/dac46fb1ad53891d981b110b1bceef2a.jpg" alt="MasterHead" style="width: 100%;"/>
+  <img src="https://i.pinimg.com/564x/69/69/7f/69697fe98099bf566f8b8777efb867e9.jpg" alt="MasterHead" style="width: 100%;"/>
 </h3>
 
 [![Nathnael's GitHub stats](https://github-readme-stats.vercel.app/api?username=nati-d)](https://github.com/nati-d/nati-d)
