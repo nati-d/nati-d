@@ -5,6 +5,7 @@
 
 [![Nathnael's GitHub stats](https://github-readme-stats.vercel.app/api?username=nati-d)](https://github.com/nati-d/nati-d)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nati-d)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nati-d&layout=compact)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
